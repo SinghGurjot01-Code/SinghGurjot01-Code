@@ -3,7 +3,7 @@
 
 - Hi, I'm currently working on [.g language](https://sgstudios.netlify.app/services/g-lang/g-lang)
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently learning **Python & Tailwind CSS**
 
 - 👯 I’m looking to collaborate on [Luma AI](https://sgstudios.netlify.app/services/luma/luma)
 
