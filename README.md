@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Python & Tailwind CSS**
 
-- 🤝 I’m looking to collaborate on [Luma AI](https://sgstudios.netlify.app/services/luma/luma)
+- 🤝 I’m looking to collaborate on [.g](https://g-language.netlify.app)
 
 - 👨‍💻 All of my projects are available at [https://sgstudios.netlify.app/](https://sgstudios.netlify.app/)
-
-- 💬 Ask me about **.g**
 
 - 📫 How to reach me **singhgurjotpal84@gmail.com**
 
