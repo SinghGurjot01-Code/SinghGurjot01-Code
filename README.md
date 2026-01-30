@@ -31,26 +31,36 @@ I focus on practical products that people actually use — not demo projects.
 <table>
 <tr>
 <td width="50%">
+  
 <center>
-### Aureum Music  
-Modern streaming web app  
+
+### Aureum Music 🟢  
+Modern music streaming web app  
+<b>Status: Actively developing</b>  
 🔗 https://aureum-music.netlify.app/
+
+<br/>
 
 ### DevOps Dashboard  
 Monitoring • uptime • logs • alerts  
 🔗 https://we-devop.netlify.app/
 
+</center>
 </td>
 
 <td width="50%">
+<center>
 
 ### igdl-api  
 Instagram media extraction API  
 🔗 https://igdl1.com/reels.html
 
+<br/>
+
 ### Portfolio  
 Experiments & tools  
 🔗 https://gurjotpalsingh.netlify.app/
+
 </center>
 </td>
 </tr>
@@ -60,16 +70,59 @@ Experiments & tools
 
 # Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,fastapi,flask,redis,firebase,tailwind,vercel,netlify,githubactions&perline=7" />
-</p>
+### Languages
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+### Backend
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Flask](https://skillicons.dev/icons?i=flask)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+
+### Databases
+![Redis](https://skillicons.dev/icons?i=redis)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+
+### DevOps / Hosting
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+---
+
+# Currently Working On
+
+- Aureum Music (new features & performance improvements)
+- Backend optimization with FastAPI / Express
+- Developer tools & automation utilities
+- Scalable API architecture
+
+---
+
+# Open to Collaboration
+
+I’m open to collaborating on:
+
+- Developer tools  
+- Backend systems  
+- APIs  
+- Monitoring / DevOps platforms  
+- Interesting open-source ideas  
+
+Feel free to reach out — always happy to build useful things together.
 
 ---
 
 # GitHub Activity
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SinghGurjot01-Code&show_icons=true&title_color=EC4899&icon_color=C084FC&text_color=ffffff&bg_color=0d1117&hide_border=true"/> -->
   <img src="https://streak-stats.demolab.com?user=SinghGurjot01-Code&ring=C084FC&fire=EC4899&currStreakLabel=ffffff&hide_border=true&background=0d1117"/>
 </p>
 
@@ -85,25 +138,24 @@ Experiments & tools
 $ whoami
 Gurjotpal Singh
 
-$ stack
-python javascript react fastapi express flask redis firebase
-
-$ building
+$ focus
 developer tools
 apis
 monitoring systems
 automation
 
 $ status
-always shipping
+actively building Aureum Music
 ```
 
 ---
 
-## Connect
+# Connect
 
 🌐 Website → https://gurjotpalsingh.netlify.app/  
 💻 GitHub → https://github.com/SinghGurjot01-Code  
+📸 Instagram → https://instagram.com/gurjotsenghww  
+✉️ Gmail → gurjotsenghww@gmail.com  
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SinghGurjot01-Code&label=views&color=EC4899&style=flat"/>
