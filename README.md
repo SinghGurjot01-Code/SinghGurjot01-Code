@@ -152,7 +152,7 @@ actively building Aureum Music
 
 # Connect
 
-🌐 Website → https://gurjotpalsingh.netlify.app/  
+🌐 Website → https://gurjotpalsingh.in/  
 💻 GitHub → https://github.com/SinghGurjot01-Code  
 📸 Instagram → https://instagram.com/gurjotsenghww  
 ✉️ Gmail → gurjotsenghww@gmail.com  
