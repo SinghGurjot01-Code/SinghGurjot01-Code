@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gurjotpalsingh.netlify.app/logo.svg" width="110"/>
+  <img src="https://gurjotpalsingh.in/logo.svg" width="110"/>
 </p>
 
 <h3 align="center">SinghGurjot01-Code</h3>
