@@ -123,7 +123,7 @@ Feel free to reach out — always happy to build useful things together.
 # GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SinghGurjot01-Code&ring=C084FC&fire=EC4899&currStreakLabel=ffffff&hide_border=true&background=fafbfc"/>
+  <img src="https://streak-stats.demolab.com?user=SinghGurjot01-Code&ring=C084FC&fire=EC4899&currStreakLabel=000000&hide_border=true&background=fafbfc"/>
 </p>
 
 <p align="center">
