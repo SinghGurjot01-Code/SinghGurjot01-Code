@@ -123,11 +123,11 @@ Feel free to reach out — always happy to build useful things together.
 # GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SinghGurjot01-Code&ring=C084FC&fire=EC4899&currStreakLabel=ffffff&hide_border=true&background=0d1117"/>
+  <img src="https://streak-stats.demolab.com?user=SinghGurjot01-Code&ring=C084FC&fire=EC4899&currStreakLabel=ffffff&hide_border=true&background=fafbfc"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinghGurjot01-Code&bg_color=fafbfc&color=C084FC&line=EC4899&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinghGurjot01-Code&bg_color=0d1117&color=C084FC&line=EC4899&point=ffffff&hide_border=true"/>
 </p>
 
 ---
